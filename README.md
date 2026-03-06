@@ -11,6 +11,6 @@
 <img src="https://github.com/Jhone00/Projeto-front-end/blob/master/assets/Captura%20de%20tela%202026-03-05%20233549.png?raw=true">
 <br>
 
-<h2>utilizamos a responsividade para quem usa celular ou tablet, para que tenham uma experiência melhorada </h2>
+<h2>Utilizamos a responsividade para quem usa celular ou tablet, para que tenham uma experiência melhorada </h2>
 <img src="https://github.com/Jhone00/Projeto-front-end/blob/master/assets/Captura%20de%20tela%202026-03-05%20233636.png?raw=true">
 
